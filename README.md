@@ -55,10 +55,6 @@ At the top of `rose.py`:
   depth-sorted into a grid of character cells.
 - Brightness picks the character, and depth jumps become `/ \ | _ -` outlines.
 - Particles add sparks, dewdrops and splashes, with a glow, twinkling stars and a faint reflection.
-
-*Inspired by "IN BLOOM" by [JIN2 (@jin_22ee)](https://instagram.com/jin_22ee). This is an
-independent implementation, not the artist's original code.*
-
 ---
 
 Made with ♥ by **Aavi** · [GitHub @awnish9002](https://github.com/awnish9002) ·
